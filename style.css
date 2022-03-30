@@ -22,7 +22,8 @@
     border-radius: 148px;
     
 }
-.logo{position: absolute;
+.logo{
+    position: absolute;
     width: 362px;
     height: 223px;
     left: 30px;
@@ -51,7 +52,7 @@
     height: 120px;
     left: 978px;
     top: 72px;
-    background: url(static/Rectangle\ 3.png);
+    background: url(static/Rectangle_3.png);
     
 }
 .texto2{
