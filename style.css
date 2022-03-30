@@ -28,7 +28,7 @@
     left: 30px;
     top: 14px;
     border-radius: 148px;
-    background: url(Rectangle_1.png);
+    background: url(static/Rectangle_1.png);
     mix-blend-mode: lighten;
     
 }
@@ -51,7 +51,7 @@
     height: 120px;
     left: 978px;
     top: 72px;
-    background: url(Rectangle\ 3.png);
+    background: url(static/Rectangle\ 3.png);
     
 }
 .texto2{
