@@ -33,7 +33,7 @@
     mix-blend-mode: lighten;
     
 }
-.texto{
+h1{
     position: absolute;
     width: 420px;
     height: 72px;
@@ -44,7 +44,7 @@
     font-weight: 300;
     font-size: 15px;
     line-height: 36px;
-    color: #FFFFFF;
+    color: #FFFFFF!important;
 }
 .carrinho{
     position: absolute;
@@ -67,7 +67,7 @@
     font-size: 32px;
     line-height: 36px;
     /* identical to box height */
-    color: #FFFFFF;
+    color: #8f2f2f;
 }
 .retangulo2{
     position: absolute;
